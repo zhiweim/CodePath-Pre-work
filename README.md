@@ -4,7 +4,7 @@ tip calculator for CodePath
 
 Submitted by: Zhiwei Ma
 
-Time spent: 1 hour 
+Time spent: 2 hours
 
 ## User Stories
 
